@@ -1,20 +1,19 @@
-# Astro Starter Kit: Basics
+# Login Form con Astro:
 
-```sh
-npm create astro@latest -- --template basics
-```
+Este proyecto es una recreación de un formulario de login inspirado en el diseño utilizado por mi universidad. Desarrollado con **Astro** y **Tailwind CSS**, este formulario busca ofrecer una interfaz limpia, moderna y eficiente.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/basics)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/basics)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/basics/devcontainer.json)
+## Características
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Diseño Responsivo**: Adaptado para verse bien en dispositivos móviles y de escritorio.
+- **Interfaz Minimalista**: Basado en el diseño simple y efectivo del formulario de login universitario.
+- **Tecnologías Modernas**: Utiliza Astro para la generación de sitios web y Tailwind CSS para el estilo.
 
-![just-the-basics](https://github.com/withastro/astro/assets/2244813/a0a5533c-a856-4198-8470-2d67b1d7c554)
+## Tecnologías Utilizadas
 
-## 🚀 Project Structure
+- **Astro**: Un framework para construir sitios web rápidos y modernos.
+- **Tailwind CSS**: Un framework de CSS que permite un diseño flexible y personalizable.
 
-Inside of your Astro project, you'll see the following folders and files:
+## Estructura del proyecto:
 
 ```text
 /
@@ -22,7 +21,7 @@ Inside of your Astro project, you'll see the following folders and files:
 │   └── favicon.svg
 ├── src/
 │   ├── components/
-│   │   └── Card.astro
+│   │   └── Login.astro
 │   ├── layouts/
 │   │   └── Layout.astro
 │   └── pages/
@@ -30,25 +29,10 @@ Inside of your Astro project, you'll see the following folders and files:
 └── package.json
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Contacto
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [matiasayala517@gmail.com](mailto:matiasayala517@gmail.com).
 
-Any static assets, like images, can be placed in the `public/` directory.
+---
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+¡Gracias por tu interés en este proyecto!
