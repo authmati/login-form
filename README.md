@@ -1,5 +1,7 @@
 # Login Form con Astro:
 
+[![Vista Previa del Formulario](https://github.com/user-attachments/assets/94b37c2d-5ddc-4887-bd6d-6e6a22b529a4)](https://github.com/authmati)
+
 Este proyecto es una recreación de un formulario de login inspirado en el diseño utilizado por mi universidad. Desarrollado con **Astro** y **Tailwind CSS**, este formulario busca ofrecer una interfaz limpia, moderna y eficiente.
 
 ## Características
